@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[35]:
+# In[ ]:
 
 
-pip install plotly
+
 
 
 # In[ ]:
